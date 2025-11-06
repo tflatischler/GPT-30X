@@ -67,3 +67,4 @@ It replaces the calculator’s original internals with a miniature Linux system 
    ```bash
    python3 /home/pi/gpt30x/main.py &
    ```
+ ###This Repi is work in progress!
