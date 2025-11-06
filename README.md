@@ -36,7 +36,6 @@ It replaces the calculator’s original internals with a miniature Linux system 
 
 ## Software Architecture
 
-/home/pi/gpt30x/
 <img width="369" height="152" alt="image" src="https://github.com/user-attachments/assets/67102ef6-4165-4005-94fd-2099b7dc7b4e" />
 
 
