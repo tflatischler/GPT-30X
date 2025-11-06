@@ -37,13 +37,8 @@ It replaces the calculator’s original internals with a miniature Linux system 
 ## Software Architecture
 
 /home/pi/gpt30x/
-│
-├── main.py # Main control loop (mode switching)
-├── chatgpt_mode.py # Online ChatGPT client logic
-├── calc_mode.py # Offline calculator logic
-├── keyboard.py # GPIO matrix handling
-├── display.py # Display rendering and text handling
-└── emergency_button.py # Interrupt-based mode switch
+<img width="369" height="152" alt="image" src="https://github.com/user-attachments/assets/67102ef6-4165-4005-94fd-2099b7dc7b4e" />
+
 
 
 ### Boot Behavior
