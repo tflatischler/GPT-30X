@@ -59,4 +59,11 @@ It replaces the calculator’s original internals with a miniature Linux system 
    sudo apt install python3-pip python3-rpi.gpio
    pip install openai
    ```
-   
+4. Enable autostart:
+   ```bash
+   sudo nano /etc/rc.local
+   ```
+   Add before exit 0:
+   ```bash
+   python3 /home/pi/gpt30x/main.py &
+   ```
